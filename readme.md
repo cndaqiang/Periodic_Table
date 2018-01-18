@@ -36,3 +36,7 @@ Web Application: <a href="https://github.com/arsho/periodic_table">https://githu
 
 <h3>Enjoy!</h3>
 <p>If you have any suggestion, please send a message to <a href="https://www.facebook.com/ars.shovon">https://www.facebook.com/ars.shovon</a></p>
+
+### 汉化
+by cndaqiang
+预览[元素周期表](https://cndaqiang.github.io/Periodic_Table)
